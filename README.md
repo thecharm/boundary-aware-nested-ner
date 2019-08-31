@@ -1,5 +1,5 @@
 # Source code of Boundary-aware Model for Nested NER
-
+Implementation of Our Paper "A Boundary-aware Model for Nested Named Entity Recognition" in EMNLP-IJCNLP 2019.
 
 # Requirements
 * `python 3`
