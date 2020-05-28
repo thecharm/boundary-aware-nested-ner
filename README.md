@@ -60,3 +60,14 @@ trained model will saved at `./data/model/`
 ```sh
 python3 eval.py
 ```
+
+If you find this repo helpful, please cite the following:
+```latex
+@inproceedings{zheng2019boundary,
+  title={A Boundary-aware Neural Model for Nested Named Entity Recognition},
+  author={Zheng, Changmeng and Cai, Yi and Xu, Jingyun and Leung, Ho-fung and Xu, Guandong},
+  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+  pages={357--366},
+  year={2019}
+}
+```latex
