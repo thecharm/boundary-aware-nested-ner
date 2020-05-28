@@ -54,7 +54,7 @@ For GermEval 2014 dataset, the same as GENIA.
 ```sh
 python3 train.py
 ```
-trained model will saved at `./data/model/`
+The trained model will be saved at `./data/model/`
 ## Testing
  set `model_url` to the url of saved model in training in `main()` of `eval.py`
 ```sh
