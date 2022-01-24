@@ -40,7 +40,7 @@ The data format is the same as in [Neural Layered Model, Ju et al. 2018 NAACL](h
 
 # Pre-trained word embeddings
 ## For GENIA Corpus:
-* [Pre-trained word embeddings](https://drive.google.com/open?id=0BzMCqpcgEJgiUWs0ZnU0NlFTam8) used here is the same as in [Neural Layered Model](https://github.com/meizhiju/layered-bilstm-crf) 
+* [Pre-trained word embeddings](https://drive.google.com/file/d/0BzMCqpcgEJgiUWs0ZnU0NlFTam8/view?usp=sharing&resourcekey=0-hKMdnLPkaFZZYNiIMeyoww) used here is the same as in [Neural Layered Model](https://github.com/meizhiju/layered-bilstm-crf) 
 ## For GermEval 2014 Corpus: 
 * [Pre-trained word embeddings](https://www.informatik.tudarmstadt.de/ukp/research_6/ukp_in_challenges/germeval_2014/index.en.jsp) used here is the same as in paper [GermEval-2014: Nested Named Entity Recognition with Neural Networks.](https://pdfs.semanticscholar.org/9b64/4bf5262e0d02d7ac25dab509d07d240b263a.pdf)
 * Since the URL above has been invalid, we provide the pre-processed GermEval 2014 Dataset in the file `GermEval2014.zip`.
